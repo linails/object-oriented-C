@@ -1,1 +1,0 @@
-/home/minphone/github/object-oriented-C/build/bin/CMakeFiles/ooc.dir
